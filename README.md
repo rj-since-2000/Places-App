@@ -1,4 +1,4 @@
-# nativeappfinal
+# Places App
 
 A new Flutter project.
 
